@@ -30,6 +30,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@material/web": "^1.4.0",
     "@vueuse/core": "^10.2.1",
     "vue": "^3.3.4"
   },
